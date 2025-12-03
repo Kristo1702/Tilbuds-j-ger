@@ -1,0 +1,14 @@
+{
+    "hakket oksek\u00f8d": {
+        "enhed": "kr/kg",
+        "max_pris": 90
+    },
+    "Sm\u00f8r": {
+        "enhed": "kr/pakke",
+        "max_pris": 10
+    },
+    "m\u00e6lk": {
+        "enhed": "kr/L",
+        "max_pris": 10
+    }
+}
